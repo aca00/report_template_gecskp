@@ -1,3 +1,3 @@
 # PROJECT REPORT TEMPLATE FOR GECSKP
-Report mistakes: https://github.com/aca00/project_report_latex_template_gecskp
+Report mistakes: https://github.com/aca00/report_template_gecskp
 
